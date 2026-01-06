@@ -1,2 +1,0 @@
-Soru: Arşiv Erişimi ile ilgili bir sorun yaşıyorum, nasıl çözebilirim?
-Cevap: Arşiv Erişimi sorununu çözmek için öncelikle bağlantı ayarlarını, kullanıcı bilgilerini ve gerekli izinleri kontrol edin. Sorun devam ederse IT destek birimi ile iletişime geçin.
