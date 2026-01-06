@@ -1,0 +1,2 @@
+Soru: Yedekleme ile ilgili bir sorun yaşıyorum, nasıl çözebilirim?
+Cevap: Yedekleme sorununu çözmek için öncelikle bağlantı ayarlarını, kullanıcı bilgilerini ve gerekli izinleri kontrol edin. Sorun devam ederse IT destek birimi ile iletişime geçin.

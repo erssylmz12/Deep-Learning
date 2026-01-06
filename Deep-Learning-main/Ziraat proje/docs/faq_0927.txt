@@ -1,0 +1,2 @@
+Soru: QR Kod ile Giriş ile ilgili bir sorun yaşıyorum, nasıl çözebilirim?
+Cevap: QR Kod ile Giriş sorununu çözmek için öncelikle bağlantı ayarlarını, kullanıcı bilgilerini ve gerekli izinleri kontrol edin. Sorun devam ederse IT destek birimi ile iletişime geçin.

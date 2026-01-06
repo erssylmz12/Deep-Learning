@@ -1,0 +1,2 @@
+Soru: Şube İçi Donanım ile ilgili bir sorun yaşıyorum, nasıl çözebilirim?
+Cevap: Şube İçi Donanım sorununu çözmek için öncelikle bağlantı ayarlarını, kullanıcı bilgilerini ve gerekli izinleri kontrol edin. Sorun devam ederse IT destek birimi ile iletişime geçin.
